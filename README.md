@@ -2,9 +2,7 @@
 I’m **Wong Zhao Xuan**, a passionate **Software Engineer**, driven by curiosity and a love for solving real-world problems with technology. My journey is fueled by continuous learning and collaboration. 🚀
 
 ## 💼 About Me 
-🔭 **Currently Working On:** AI-driven Course Timetable Scheduling with desktop application project  <br>
-🌱 **Currently Learning:** [PHP, Laravel] <br>
-💡 **Interests:** [Full-stack Development, Artificial Intelligence, BlockChain] <br> 
+💡 **Interests:** [Artificial Intelligence, BlockChain] <br> 
 📫 **How to Reach Me:** wzhaoxuan08@gmail.com
 
 ## 💻 Tech Stack:
