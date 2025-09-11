@@ -8,15 +8,8 @@
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wzhaoxuan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wzhaoxuan08) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/wzhaoxuan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wzhaoxuan08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wzhaoxuan08@gmail.com) 
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wzhaoxuan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wzhaoxuan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
